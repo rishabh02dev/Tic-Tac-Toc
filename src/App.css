@@ -1,0 +1,22 @@
+body{
+  background-color: rgb(204, 204, 249);
+  text-align: center;
+}
+.board-container{
+  height: 454px;
+  width: 600px;
+  background-color:antiquewhite;
+  /* margin: 100px; */
+  margin: auto;
+}
+.board-row{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.winner-container{
+  background-color: rgb(180, 250, 75);
+  height: 454px;
+  width: 600px;
+  margin: auto;
+}
